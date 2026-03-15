@@ -1,0 +1,39 @@
+## Mobile Game Ads – Unity Ads
+unityads.unity3d.com
+ads-config.unityads.unity3d.com
+auction-load.unityads.unity3d.com
+kafka.unityads.unity3d.com
+postback.unityads.unity3d.com
+impact.applifier.com
+cloud.unity3d.com
+
+## Mobile Game Ads – AppLovin
+applovin.com
+d.applovin.com
+a.applovin.com
+prod.applovin.com
+
+## Mobile Game Ads – ironSource / Supersonic
+supersonicads.com
+cdn.supersonicads.com
+pixel.supersonicads.com
+api.supersonicads.com
+is.com
+isappcloud.com
+ironsrc.com
+
+## Mobile Game Ads – AdMob / Google Ads
+googleads.g.doubleclick.net
+googleads4.g.doubleclick.net
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+securepubads.g.doubleclick.net
+admob.com
+apps.admob.com
+
+## Mobile Game Ads – Chartboost
+chartboost.com
+live.chartboost.com
+static.chartboost.com
+analytics.chartboost.com
+mediation.chartboost.com
