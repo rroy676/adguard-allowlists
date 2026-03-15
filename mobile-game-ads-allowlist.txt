@@ -1,3 +1,18 @@
+# Mobile Game Ads DNS Allowlist
+#
+# Purpose: allow rewarded/interstitial ads in mobile games
+# by whitelisting major mobile in‑app ad networks.
+#
+# WARNING: This significantly reduces privacy and blocking
+# for any client using this list. Apply ONLY to phones/tablets,
+# not your whole LAN.
+
+# Resources for creating filters
+#
+# https://adguard.com/kb/general/ad-filtering/create-own-filters/
+# https://help.adblockplus.org/hc/en-us/articles/360062733293
+# https://datatracker.ietf.org/doc/html/rfc5234
+
 ## Mobile Game Ads – Unity Ads
 unityads.unity3d.com
 ads-config.unityads.unity3d.com
