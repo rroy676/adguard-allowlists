@@ -37,3 +37,32 @@ live.chartboost.com
 static.chartboost.com
 analytics.chartboost.com
 mediation.chartboost.com
+
+## Mobile Game Ads – Meta Audience Network
+graph.facebook.com
+connect.facebook.net
+ads.facebook.com
+creative.ak.facebook.com
+
+## Mobile Game Ads – Vungle
+vungle.com
+cds.vungle.com
+api.vungle.com
+ads.api.vungle.com
+
+## Mobile Game Ads – AdColony
+adcolony.com
+ads.adcolony.com
+events3.adcolony.com
+
+## Mobile Game Ads – Mintegral
+mintegral.com
+mintegral.net
+tracking.mintegral.net
+ads.mintegral.net
+
+## Mobile Game Ads – Tapjoy (Unity)
+tapjoy.com
+api.tapjoy.com
+cdn.tapjoy.com
+ws.tapjoyads.com
